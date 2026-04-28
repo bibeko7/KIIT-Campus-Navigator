@@ -1,0 +1,17 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/_nuxt/*", "/favicon.ico", "/robots.txt", "/sitemap.xml", "/assets/*"]
+  },
+  "mimeTypes": {
+    ".json": "text/json",
+    ".js": "application/javascript",
+    ".css": "text/css"
+  },
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/index.html",
+      "statusCode": 200
+    }
+  }
+}
