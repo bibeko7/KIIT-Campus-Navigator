@@ -1,5 +1,5 @@
 # 🗺️ KIIT Campus Navigator
-
+It was done with collabration of 5 friends
 A full-stack interactive campus navigation web app built with **React.js + Leaflet.js** for KIIT University, Bhubaneswar. Visualizes shortest path algorithms on a real map with all 25 KIIT campuses at their verified GPS coordinates.
 
 ---
